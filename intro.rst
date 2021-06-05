@@ -10,6 +10,5 @@ Imperative and Declarative Automation
    :maxdepth: 1
    :glob:
 
-   intro/intro.rst
-   lab1/lab*
-   lab2/lab*
+   lab*/lab*
+
