@@ -13,4 +13,7 @@ API calls with Application Services 3 (AS3).
    :caption: Contents:
    :glob:
 
-   class*/class*
+   intro/intro.rst
+   labinfo/labinfo.rst
+   lab1/lab*
+   lab2/lab*
