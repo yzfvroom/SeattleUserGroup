@@ -13,6 +13,6 @@ API calls with Application Services 3 (AS3).
    :caption: Contents:
    :glob:
 
-   intro.rst
    labinfo.rst
+   intro.rst
 
