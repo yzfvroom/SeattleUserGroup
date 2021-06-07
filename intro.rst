@@ -11,4 +11,3 @@ Imperative and Declarative Automation
    :glob:
 
    lab*/lab*
-
