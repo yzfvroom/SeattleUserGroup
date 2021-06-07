@@ -60,7 +60,7 @@ components:
 |                        |     - 10.1.10.113       |                             |
 |                        | - Internal   10.1.20.4  |                             |
 +------------------------+-------------------------+----------------+------------+
-| bigip5.f5lab.local     | - Management 10.1.1.11  | admin          |  admin     |
+| bigip5.f5lab.local     | - Management 10.1.1.11  | admin          |  notthelab |
 |                        |                         +----------------+------------+
 |                        | - External              |                             |
 |                        |     - 10.1.10.11        |                             |
